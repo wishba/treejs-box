@@ -1,1 +1,1 @@
-# https://wishba.github.io/treejs-box/
+# https://wishba-treejs-box.netlify.app/
